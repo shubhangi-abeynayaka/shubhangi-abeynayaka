@@ -1,16 +1,20 @@
-## Hi there 👋
+# Shubhangi Abeynayaka
+Computer Engineering Undergraduate | University of Sri Jayewardenepura
 
-<!--
-**shubhangi-abeynayaka/shubhangi-abeynayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on Database Architecture, Computer Security, Natural Language Processing (NLP), and Core Software Engineering. Seeking Software Engineering & Technical Internship opportunities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**[SQL Database Portfolio](https://github.com/shubhangi-abeynayaka/sql-database-portfolio)**  
+Relational schema design, normalization, complex multi-table joins, and analytical query implementations in MariaDB/MySQL.
+
+**[OrthoVision](https://github.com/shubhangi-abeynayaka)**  
+Augmented reality application for medical image visualization and bone fracture detection.
+
+---
+
+### Contact & Links
+* **LinkedIn:** [shubhangi-abeynayaka](https://www.linkedin.com/in/shubhangi-abeynayaka-18247a381)
+* **Email:** shubhangi.abeynayaka@gmail.com
