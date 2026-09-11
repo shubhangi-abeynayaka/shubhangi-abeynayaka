@@ -13,6 +13,9 @@ Relational schema design, normalization, complex multi-table joins, and analytic
 **[OrthoVision]([https://github.com/shubhangi-abeynayaka](https://github.com/nethmitharushika56/OrthoVision))**  
 Augmented reality application for medical image visualization and bone fracture detection.
 
+**[Dementia Tracker](https://github.com/shubhangi-abeynayaka/dementia-caregiver-app)**  
+A low-cost, subscription-free real-time monitoring, tracking device project
+
 ---
 
 ### Contact & Links
