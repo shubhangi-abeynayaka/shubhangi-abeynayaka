@@ -10,7 +10,7 @@ Computer Engineering student focused on Database Architecture, Computer Security
 **[SQL Database Portfolio](https://github.com/shubhangi-abeynayaka/sql-database-portfolio)**  
 Relational schema design, normalization, complex multi-table joins, and analytical query implementations in MariaDB/MySQL.
 
-**[OrthoVision](https://github.com/shubhangi-abeynayaka)**  
+**[OrthoVision]([https://github.com/shubhangi-abeynayaka](https://github.com/nethmitharushika56/OrthoVision))**  
 Augmented reality application for medical image visualization and bone fracture detection.
 
 ---
